@@ -1,0 +1,4 @@
+## R treats default and supplied arguments to functions differently.
+## The difference is subtle and may be considered a 'gotcha' by some, but generally won't affect most people until they start dealing with non-standard evaluation.
+##
+## One of R's behaviors that might be considered a 'gotcha' is how default and supplied arguments are treated.
